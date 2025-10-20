@@ -10,7 +10,7 @@ Este repositório serve como documentação e estudo de caso para a plataforma "
 
 | App Store (iOS) | Google Play (Android) |
 | :---: | :---: |
-| [!\[Disponível na App Store\](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/br/app/ministério-chama-coral/id6749340847) | [!\[Disponível no Google Play\](https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png)](https://play.google.com/store/apps/details?id=br.com.glinfo.chamacoral&hl=pt_BR) |
+| <a href="https://apps.apple.com/br/app/ministério-chama-coral/id6749340847"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Disponível na App Store" height="40"></a> | <a href="https://play.google.com/store/apps/details?id=br.com.glinfo.chamacoral&hl=pt_BR"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" alt="Disponível no Google Play" height="60"></a> |
 
 ---
 
@@ -23,6 +23,7 @@ Este repositório serve como documentação e estudo de caso para a plataforma "
 | ![Screenshot 1](./screenshots/home.jpg) | ![Screenshot 2](./screenshots/telademusic.jpg) | ![Screenshot 3](./screenshots/agenda.jpg) |
 
 ---
+
 
 ## O Problema
 
