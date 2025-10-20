@@ -20,7 +20,7 @@ Este repositório serve como documentação e estudo de caso para a plataforma "
 
 | Tela de Login | Tela de Músicas | Tela de Eventos |
 | :---: | :---: | :---: |
-| ![Screenshot 1](./screenshots/home.png) | ![Screenshot 2](./screenshots/telademusic.png) | ![Screenshot 3](./screenshots/agenda.jpg) |
+| ![Screenshot 1](./screenshots/home.jpg) | ![Screenshot 2](./screenshots/telademusic.jpg) | ![Screenshot 3](./screenshots/agenda.jpg) |
 
 ---
 
